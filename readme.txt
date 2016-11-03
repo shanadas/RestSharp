@@ -20,3 +20,4 @@ must take care of the deserialization yourself to get it working.
 
 If you run into any compatibility issues with deserialization, 
 please report it to http://groups.google.com/group/restsharp
+Check
